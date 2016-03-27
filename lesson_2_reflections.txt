@@ -4,3 +4,5 @@ Staging area helps because it works
 as a previous view to the real git repository
 It helps me adding the same logical change to
 different files, make a group and then commit them
+It would help me letting me introduces several changes
+without the risk of loosing previous advance.

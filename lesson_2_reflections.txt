@@ -9,3 +9,6 @@ without the risk of loosing previous advance.
 It makes everything more graphic
 so i can understand better where is every branch
 It helps get back to one road, the master road.
+When i didnt made too many changes i think they are
+compatible lets use automatic merge.
+If there were a lot of changes it is better to use manually merge.

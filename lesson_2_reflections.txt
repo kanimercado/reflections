@@ -1,2 +1,4 @@
 It creates .git so i can
 track the files inside that directory
+Staging area helps because it works
+as a previous view to the real git repository

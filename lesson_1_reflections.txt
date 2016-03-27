@@ -1,0 +1,19 @@
+It help me a lot because
+on each line it shows the 
+difference between 2 files
+I uses - for code that has been
+erased, and + for code that has been
+added
+It will help to go back at
+any time if I have any mistake
+The advantages of choosing manually when to create a commit are that we can bundle them into groups of the same logical changes. 
+The cons of saving manually is the you can forget
+to create a commit or have to many mistakes between commits
+They are made for diffferent a purpose.
+The first one is common docs, the second one
+is for programming docs.
+I can use this to tools to identify
+changes from different versions
+It will make me more confident beacuse
+i can return the last version that worked out
+I want to try it on this file

@@ -1,0 +1,2 @@
+It creates .git so i can
+track the files inside that directory

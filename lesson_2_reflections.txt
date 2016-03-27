@@ -6,3 +6,5 @@ It helps me adding the same logical change to
 different files, make a group and then commit them
 It would help me letting me introduces several changes
 without the risk of loosing previous advance.
+It makes everything more graphic
+so i can understand better where is every branch
